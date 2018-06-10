@@ -40,7 +40,7 @@ Utilisation d'HTML5 et CSS3.
 Conseil: Suivre les étapes (1 à 5).   
 
 * **Bonus**  
-Utilisation de la balise canvas et JS peut faire des petites merveilles 
+L'utilisation de la balise canvas avec JS peut faire [des petites merveilles](https://code.tutsplus.com/articles/21-ridiculously-impressive-html5-canvas-experiments--net-14210). 
 
 ---
 
