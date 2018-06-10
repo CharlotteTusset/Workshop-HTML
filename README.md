@@ -22,9 +22,9 @@ Workshop sur les structures d'**HTML5**.
 
 ### Exercices
 
-* Exercice 1 - *Structurer un texte brut*  
+* **Exercice 1 - Structurer un texte brut** 
 Objectif: structurer un document HTML sur base d'un texte brut (Une brève histoire du web) en utilisant les balises nécessaires.  
-[Texte](https:)
+[Texte: Une brève histoire du web](https://github.com/CharlotteTusset/Workshop-HTML/blob/master/Exercices/Une%20br%C3%A8ve%20histoire%20du%20web/Structuremoi.html)
 1. Structure le texte brut et ajoute les images et liens fournis (utiliser les balises HTML5 tels que header, section, article, aside, nav, figure, h1)
 2. Créer un header avec comme titre *Design, Tech & Fun*
 3. Créer un aside avec un champ de recherche, un champ 'articles récents', un champ 'thématiques', et un champ 'anciens articles'
@@ -34,8 +34,8 @@ Objectif: structurer un document HTML sur base d'un texte brut (Une brève histo
 
 À n'utiliser qu'en cas de panne d'inspiration! [Lien du modèle](https://blog.apptitude.ch/2016/10/une-histoire-du-web/)   
 
-* Exercice 2 - *Sticky Notes*  
-Objectif: réaliser une page de [sticky notes animées](https://cdn.tutsplus.com/net/uploads/legacy/771_sticky/step1.html).  
+* **Exercice 2 - Sticky Notes**  
+Objectif: réaliser une page de [sticky notes animées](https://cdn.tutsplus.com/net/uploads/legacy/771_sticky/step5.html).  
 Utilisation d'HTML5 et CSS3.  
 Conseil: Suivre les étapes (1 à 5).    
 
